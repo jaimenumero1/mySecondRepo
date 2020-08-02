@@ -9,4 +9,5 @@ Git
 Skills to learn
 
 1. Git Hub
+2. Adding conflict
 
