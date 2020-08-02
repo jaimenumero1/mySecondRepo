@@ -1,4 +1,4 @@
-
+Git 
 
 
 1. Run 5k
@@ -17,4 +17,10 @@ D
 D
 D
 D
+
+
+Skills to learn
+
+1. Git Hub
+2. Adding conflict
 
